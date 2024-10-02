@@ -31,15 +31,6 @@ This project leverages **Generative AI** and **deep learning** to automatically 
    ```bash
    git clone https://github.com/AnuragB2004/AI-Powered-Quality-Control-for-Manufacturing.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the model:
-   ```bash
-   python train_model.py
-   ```
 
 ## Challenges
 We encountered issues with **overfitting**, which were addressed by using **data augmentation** and tuning model parameters. Balancing model complexity for optimal performance was also a key challenge that required extensive evaluation of different architectures.
